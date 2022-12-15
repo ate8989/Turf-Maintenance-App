@@ -1,1 +1,5 @@
-# Turf-Maintenance-App
+- 👋 Hi, I'm @ate8989
+- 👀 I'm interested in ... serving my artificial turf customers
+- 🌿 I'm currently learning ... how to write code for my turf installation software
+- 🧠 I'm looking to collaborate on ... my turf installation software
+- 📬 How to reach me ... Vist my <a href="https://www.turfinstallationprostx.com/residential-turf-installation"><Turf Installation</a> website
